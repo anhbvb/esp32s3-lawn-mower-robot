@@ -178,6 +178,6 @@ MIT License — tự do sử dụng, học tập và phát triển tiếp.
 ---
 
 ## 👤 Tác giả
-Đồ án tốt nghiệp
+ĐỒ ÁN TỐT NGHIỆP - CHUYÊN NGÀNH CƠ ĐIỆN TỬ - PHẠM ĐOÀN THẾ ANH - 0824946881
 
 > Nếu project này hữu ích, hãy ⭐ star để ủng hộ!
